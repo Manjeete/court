@@ -11,7 +11,6 @@ body{
 #leftPortal{
 	background: white;
 	height: 100vh;
-	position: fixed;
 	box-shadow: 2px 3px 5px #ebf5f5;
 }
 
@@ -30,6 +29,10 @@ body{
 	float:left;
 	flex:box;
 	margin:30px 0 0 20px;
+}
+
+.fa-angle-down{
+	cursor:pointer;
 }
 
 #leftDash{
@@ -63,4 +66,9 @@ ul{
 	color:grey;
 	text-decoration: none !important;
 	
+}
+
+
+#left_arrow{
+	cursor:pointer;
 }
