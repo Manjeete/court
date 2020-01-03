@@ -25,6 +25,13 @@ body{
 	padding-top:3px;
 }
 
+.angleLeft{
+	float:left;
+	margin-left:5px;
+	transform: rotate(180deg);
+
+}
+
 .fa-first-order{
 	float:left;
 	flex:box;
@@ -49,6 +56,13 @@ body{
 
 }
 
+/*.imgToggle{
+	width:120px;
+	height:auto;
+	margin-left:0px;
+	padding:0;
+}*/
+
 #dropLegal{
 	float: right;
 	padding-right:55px;
@@ -71,4 +85,8 @@ ul{
 
 #left_arrow{
 	cursor:pointer;
+}
+
+.togLeftDiv{
+	width:60px !important;
 }
