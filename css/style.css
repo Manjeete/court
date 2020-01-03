@@ -1,5 +1,66 @@
 *{
   margin:0;
   padding:0;
-  display:block;
+}
+
+body{
+	background-color: #ebf5f5;
+}
+
+/*left part of the page */
+#leftPortal{
+	background: white;
+	height: 100vh;
+	position: fixed;
+	box-shadow: 2px 3px 5px #ebf5f5;
+}
+
+#leftPortal h5{
+	padding-top:30px;
+	margin-left:20px;
+	font-weight: bold;
+}
+
+.fa-angle-left{
+	float:right;
+	padding-top:3px;
+}
+
+.fa-first-order{
+	float:left;
+	flex:box;
+	margin:30px 0 0 20px;
+}
+
+#leftDash{
+	float:right;
+	margin-left:10px;
+	font-weight: bold;
+}
+
+#leftPortal img{
+	width:20px;
+	height:auto;
+	margin-top:80px;
+	margin-left:-150px;
+
+}
+
+#dropLegal{
+	float: right;
+	padding-right:55px;
+	margin-top:15px;
+	font-weight: bold;
+}
+
+ul{
+	list-style:none;
+	margin-left:50px;
+	font-weight: bold;
+}
+
+ li a{
+	color:grey;
+	text-decoration: none !important;
+	
 }
