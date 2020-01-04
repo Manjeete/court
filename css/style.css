@@ -42,31 +42,27 @@ body{
 	cursor:pointer;
 }
 
+.fa-balance-scale{
+	margin-left: 15px;
+}
+
+.balanceScale{
+	margin-top:20px;
+}
+
 #leftDash{
 	float:right;
 	margin-left:10px;
 	font-weight: bold;
 }
 
-#leftPortal img{
-	width:20px;
-	height:auto;
-	margin-top:80px;
-	margin-left:-150px;
 
-}
 
-/*.imgToggle{
-	width:120px;
-	height:auto;
-	margin-left:0px;
-	padding:0;
-}*/
+
 
 #dropLegal{
 	float: right;
-	padding-right:55px;
-	margin-top:15px;
+	margin-left:10px;
 	font-weight: bold;
 }
 
