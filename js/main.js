@@ -5,7 +5,7 @@ $(document).ready(function(){
         $("#left_arrow").toggleClass("angleLeft");
         $('.fa-balance-scale').toggleClass("balanceScale");
         $("img").toggleClass('imgToggle');
-        $("span,#leftDash,ul,#dropLegal").toggle();
+        $("#span1,#leftDash,ul,#dropLegal").toggle();
 
 	});
 
