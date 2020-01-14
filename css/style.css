@@ -185,11 +185,28 @@ ul{
 	margin-left:20px;
 }
 
+/* detail row*/
+#detail{
+	border-radius:4px;
+	margin-top:2px;
+}
 
+.detailHeader{
+	height: 130px;
+	background:#c9e2f2;
 
+}
 
+.form-group{
+	outline:none;
+}
 
-
+.deatialHead{
+	font-size:14px;
+	margin-top:15px;
+	font-weight: bold;
+	color:#575b5c;
+}
 
 
 
