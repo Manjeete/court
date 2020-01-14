@@ -12,6 +12,17 @@ body{
 	background: white;
 	height: 100vh;
 	box-shadow: 2px 3px 5px #ebf5f5;
+	position: fixed;
+}
+
+.rightPortal1{
+	position: relative;
+	margin-left: 230px;
+}
+
+.rightPortal2{
+	position: relative;
+	margin-left:60px;
 }
 
 #leftPortal h5{

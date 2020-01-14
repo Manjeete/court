@@ -6,6 +6,8 @@ $(document).ready(function(){
         $('.fa-balance-scale').toggleClass("balanceScale");
         $("img").toggleClass('imgToggle');
         $("#span1,#leftDash,ul,#dropLegal").toggle();
+        $('#rightP').toggleClass('rightPortal1');
+        $('#rightP').toggleClass('rightPortal2')
 
 	});
 
